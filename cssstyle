@@ -1,0 +1,10 @@
+body {
+	
+display : flex ;
+
+justifly content : center ;
+aling-items : center ;
+height : 100vh
+
+
+}
