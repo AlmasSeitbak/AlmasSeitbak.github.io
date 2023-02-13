@@ -1,0 +1,12 @@
+block {
+  display: inline-block;  /* 💥 */
+  float: left;
+  position: relative;
+  margin-bottom: 50px;    /* 💥 */
+  margin: 20px auto;
+  padding: 20px;
+  vertical-align: middle; /* 💥 */
+  line-height: 30px;      /* 💥 */
+  font: 16px/1.4 Arial,sans-serif;
+  color: teal;
+}
