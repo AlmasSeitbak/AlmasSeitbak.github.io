@@ -1,1 +1,0 @@
-# AlmasSeitbak.github.io
